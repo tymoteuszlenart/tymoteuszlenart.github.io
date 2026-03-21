@@ -14,37 +14,36 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tymoteusz Lenart # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: CV and blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Engineer, blogger, and open-source enthusiast. Welcome to my personal website where I share insights on technology, programming, and my journey in the world of software development.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tymotueszlenart.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: tymotueszlenart # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: tymotueszlenart # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Tymoteusz Lenart
+  email: tymoteusz@lenart.org.pl # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/lenartt_ # change to your Twitter homepage
+    - https://github.com/tymotueszlenart # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://www.facebook.com/tymotueszlenart
+    - https://www.linkedin.com/in/tymotueszlenart
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
