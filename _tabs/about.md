@@ -1,45 +1,47 @@
 ---
-title: O mnie
+title: About
 icon: fas fa-info-circle
 order: 4
+layout: page
+permalink: /about/
 ---
 
-Cześć! Nazywam się Tymoteusz Lenart. Jestem Inżynierem Systemowym specjalizującym się w administracji systemami EDI. 
+Hi! I'm Tymoteusz Lenart. I am a System Engineer specializing in EDI systems administration.
 
-Jako System Engineer w Comarch wspieram klientów biznesowych poprzez zarządzanie systemem EDI, tworzenie połączeń z partnerami handlowymi oraz optymalizację procesów z wykorzystaniem procedur SQL. Moja praca obejmuje również analizę błędów i szybkie rozwiązywanie problemów, co wymaga skutecznej komunikacji z działami implementacyjnymi i partnerami. Równocześnie pełnię funkcję Chief Marketing & Volunteer Officer w BrainChangeContinental, gdzie realizuję działania marketingowe związane z konferencją Confitura oraz organizuję wolontariuszy. Studiuję informatykę na AGH w Krakowie i angażuję się w działalność samorządową, wspierając organizację wydarzeń akademickich.
+As a System Engineer at Comarch, I support business clients by managing the EDI system, establishing connections with trading partners, and optimizing processes using SQL procedures. My work also involves in-depth error analysis and rapid issue resolution, which requires effective communication with implementation departments and external partners. At the same time, I serve as the Chief Marketing & Volunteer Officer at BrainChangeContinental, where I oversee marketing activities for the Confitura conference and coordinate volunteers. I am currently pursuing a Master's degree in Computer Science at the AGH University of Krakow and actively participate in the student council, supporting the organization of various academic events.
 
-## Doświadczenie
+## Experience
 
-* **System Engineer** w *Comarch* (marzec 2025 - obecnie) 
-  Administration and support of the Comarch EDI system for business clients, creating and managing EDI connections, and system optimization using SQL procedures.
+* **System Engineer** at *Comarch* (March 2025 - Present)
+  Administration and support of the Comarch EDI system for business clients, creating and managing EDI connections (AS2, X400, SFTP/FTP/FTPS), and system optimization using SQL procedures.
 
-* **Technical Assistance Consultant** w *Comarch* (luty 2024 - maj 2025) 
-  Second-line technical support for corporate clients, diagnosing incidents, and preparing technical documentation.
+* **Technical Assistance Consultant** at *Comarch* (February 2024 - May 2025)
+  Second-line technical support for corporate clients, diagnosing and resolving incidents, and preparing technical documentation.
 
-* **CMVO - Chief Marketing & Volunteer Officer** w *BrainChangeContinental (BCC)* (lipiec 2025 - obecnie) 
-  Implementing conference marketing activities and organizing volunteers.
+* **CMVO - Chief Marketing & Volunteer Officer** at *BrainChangeContinental (BCC)* (July 2025 - Present)
+  Implementing conference marketing strategies and communicating with and organizing volunteers.
 
-* **Member of the Collaboration Team** w *WRSS WIMIIP AGH* (marzec 2023 - obecnie) 
-  Assisting in organizing academic events and cooperating with external partners.
+* **Member of the Collaboration Team** at *WRSS WIMIIP AGH - Faculty Students Council* (March 2023 - Present)
+  Assisting in organizing academic and representative events, and cooperating with external partners (sponsors, tech companies, institutions).
 
-* **Inżynier ds. wdrożeń** w *Archman* (kwiecień 2022 - czerwiec 2022) 
-  Tworzenie i rozwój aplikacji biznesowych w systemie low-code, pisanie zapytań SQL oraz analiza potrzeb klienta.
+* **Implementation Engineer** at *Archman* (April 2022 - June 2022)
+  Creating and developing business applications in a proprietary low-code system, writing SQL queries for data integration, and analyzing client needs.
 
-* **Wsparcie logistyczne** w *Kuracjusz Beskidzki* (marzec 2021 - sierpień 2021 oraz czerwiec 2019 - sierpień 2019) 
+* **Logistics Support** at *Kuracjusz Beskidzki* (March 2021 - August 2021 & June 2019 - August 2019)
 
-## Wykształcenie
+## Education
 
-* **Magister inżynier (Mgr inż.), Informatyka** na *AGH University of Krakow* (październik 2024 - lipiec 2026) 
-* **Inżynier (Inż.)** na *AGH University of Science and Technology* (październik 2020 - luty 2024) 
-* **Technik, Informatyka** w *Zespół Szkół Łączności w Krakowie* (wrzesień 2016 - czerwiec 2020) 
+* **Master of Science (MSc), Computer Science** at *AGH University of Krakow* (October 2024 - July 2026)
+* **Bachelor of Science (BSc/Inż.)** at *AGH University of Science and Technology* (October 2020 - February 2024)
+* **IT Technician** at *Zespół Szkół Łączności w Krakowie* (September 2016 - June 2020)
 
-## Umiejętności i Certyfikaty
+## Skills & Certifications
 
-* **Główne umiejętności:** T-SQL, Usługi internetowe Amazon (AWS), Wdrażanie oprogramowania 
-* **Certyfikaty:** * SQL język dostępu do bazy danych MS SQL Server - poziom zaawansowany 
-  * Microsoft SQL Server - język Transact-SQL - poziom podstawowy 
-  * AWS Academy Graduate - Cloud Developing - Training Badge 
+* **Core Skills:** T-SQL, Amazon Web Services (AWS), Software Deployment
+* **Certifications:** * MS SQL Server Database Access Language - Advanced Level
+  * Microsoft SQL Server Transact-SQL - Foundation Level
+  * AWS Academy Graduate - Cloud Developing - Training Badge
 
-## Kontakt
+## Contact
 
-Jeśli chcesz się ze mną skontaktować, napisz na adres: tymek@lenart.org.pl  lub odwiedź mój profil na [LinkedIn](https://www.linkedin.com/in/tymoteuszlenart).
+Feel free to reach out to me via email at tymek@lenart.org.pl or connect with me on [LinkedIn](https://www.linkedin.com/in/tymoteuszlenart).
