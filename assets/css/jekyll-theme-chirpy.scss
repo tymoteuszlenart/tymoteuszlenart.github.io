@@ -1,6 +1,6 @@
 ---
 ---
-@use 'main' {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%};
+@import 'main';
 
 :root {
   /* Main accent */
