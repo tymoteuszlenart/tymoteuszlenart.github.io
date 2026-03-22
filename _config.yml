@@ -16,7 +16,7 @@ timezone:
 
 title: Tymoteusz Lenart # the main title
 
-tagline: CV and blog # it will display as the subtitle
+tagline: 3C: 💻 Code • 🪙 Crypto • 🚴  Cycle # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Engineer, blogger, and open-source enthusiast. Welcome to my personal website where I share insights on technology, programming, and my journey in the world of software development.
@@ -102,7 +102,7 @@ avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/social_image.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
