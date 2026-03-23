@@ -5,7 +5,7 @@ categories: [Programming, Web3]
 tags: [rust, solana, docker, jekyll, confitura]
 ---
 
-### Intensywny tydzień w świecie Rusta i nie tylko
+### Dużo się dzieje
 
 Miniony tydzień był dla mnie prawdziwą jazdą bez trzymanki, jeśli chodzi o przyswajanie całkowicie nowej wiedzy i technologiczny networking. Od dłuższego czasu starałem się wejść w ekosystem Rusta i Web3, a ostatnie dni dostarczyły mi do tego idealnych okazji. Połączyłem z sobą intensywną naukę na warsztatach, rozwiązywanie problemów infrastrukturalnych, udział w świetnej konferencji, a do tego spotkanie z naszym zespołem organizacyjnym [Confitury](https://2026.confitura.pl).
 
